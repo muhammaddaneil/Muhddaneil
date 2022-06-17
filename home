@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Muhammad daneil e resume</title>
+        <link href="style.css" rel="stylesheet" type="text/css"> 
+
+    </head>
+    <body
+        <div class="background-image">
+            <div class="welcome">
+                <h1>MUHAMMAD DANEIL E-RESUME</h1>
+                     <div class="topnav">
+                         <a href="summary.html">SUMMARY</a>
+                         <a href="education.html">EDUCATION</a>
+                         <a href="experiance.html">EXPERIANCE</a>
+                         <a href="skills.html">SKILLS</a>
+                         <a href="contact.html">CONTACT</a>
+                     </div> 
+             </div>
+             <div class="box">
+                 <div class="inner-box">
+                    <h1>HELLO!!</h1>
+                    <p>My name is MUHAMMAD DANEIL</p>
+                    <P>Iam 22 years old </P>
+                    <p>&</p>
+                    <p>I am a graduate of Bachelor Degree in Information Science in Library Management</p>
+                </div>
+                 </div>
+        </div>
+    </body>
+</html>
